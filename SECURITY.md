@@ -14,6 +14,6 @@ currently being supported with security updates.
 
 ## Reporting a Vulnerability
 
-If you discover a security vulnerability, please report it to us by sending an email to security@example.com. We will respond to your report within 48 hours.
+To report a security vulnerability, please send an email to security@tron-tvl-list.com. We will review the report and respond within 5 business days.
 
-Please follow responsible disclosure practices when reporting vulnerabilities. This means giving us a reasonable amount of time to address the issue before making any information about it public.
+Please follow responsible disclosure guidelines when reporting vulnerabilities. Do not publicly disclose the vulnerability until we have had a chance to address it.
