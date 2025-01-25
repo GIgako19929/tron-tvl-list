@@ -10,5 +10,29 @@
             "TKcEU8ekq2ZoFzLSGFYCUY6aocJBX9X31b",
             "TAkrcKsS5FW9f3ZfzvWy6Zvsz9uEjUxPoV"
         ]
+    },
+    {
+        "name": "JustLend",
+        "logoURI": "https://coin.top/production/upload/logo/justlend.png",
+        "homepage": "https://justlend.org/",
+        "MarketCapLink": "https://coinmarketcap.com/currencies/justlend/",
+        "url": "https://apilist.tronscan.org/api/tvl/justlend",
+        "category": "Lending",
+        "poolAddresses": [
+            "TXYZopYRdj2D9XRtbG411XZZ3kM5VkAeBf",
+            "TXYZopYRdj2D9XRtbG411XZZ3kM5VkAeBg"
+        ]
+    },
+    {
+        "name": "NewDefiProject",
+        "logoURI": "https://example.com/logo.png",
+        "homepage": "https://example.com",
+        "MarketCapLink": "https://coinmarketcap.com/currencies/new-defi-project",
+        "url": "https://example.com/api/tvl",
+        "category": "Yield",
+        "poolAddresses": [
+            "TXYZopYRdj2D9XRtbG411XZZ3kM5VkAeBh",
+            "TXYZopYRdj2D9XRtbG411XZZ3kM5VkAeBi"
+        ]
     }
 ]
